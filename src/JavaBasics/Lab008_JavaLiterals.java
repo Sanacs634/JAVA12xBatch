@@ -23,6 +23,48 @@ package JavaBasics;
 //
 //char c = 'A' -> 65 // ASCII Stand
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import java.sql.SQLOutput;
 
 public class Lab008_JavaLiterals {
