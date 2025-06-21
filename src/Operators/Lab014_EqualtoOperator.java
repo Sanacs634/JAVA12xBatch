@@ -1,4 +1,4 @@
-package JavaBasics;
+package Operators;
 
 public class Lab014_EqualtoOperator {
     public static void main(String[] args) {

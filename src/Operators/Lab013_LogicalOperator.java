@@ -1,4 +1,4 @@
-package JavaBasics;
+package Operators;
 //1.
 //    - `&&`  (AND)
 //    - `||`  (OR)

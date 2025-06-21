@@ -1,4 +1,4 @@
-package JavaBasics;
+package Operators;
 
 public class Lab017_NestedTernory {
     public static void main(String[] args) {

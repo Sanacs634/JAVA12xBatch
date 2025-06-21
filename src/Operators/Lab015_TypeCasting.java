@@ -1,4 +1,4 @@
-package JavaBasics;
+package Operators;
 //- Type casting in Java is the process of **converting a value from one data type to another.**
 //- There are two main types of type casting:
 //    - **widening  **  -> Implicit

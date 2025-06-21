@@ -1,4 +1,4 @@
-package JavaBasics;
+package Operators;
 
 public class Lab016_TernoryOperator {
     public static void main(String[] args) {
