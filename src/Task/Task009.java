@@ -19,6 +19,7 @@ public class Task009 {
         System.out.println("Enter the third side of triangle");
         triangle_side3 = userinput.nextFloat();
 
+
         if((triangle_side1==triangle_side2)&&(triangle_side2==triangle_side3)){
             System.out.println("its an equilateral triangle");
 

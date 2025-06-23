@@ -1,7 +1,5 @@
 package Task;
 
-import java.util.Enumeration;
-
 //Task # 1
 //
 //Table of 5 you need to print,  (only use the printF)
@@ -11,7 +9,7 @@ import java.util.Enumeration;
 //5×2 = 10
 //….
 //5×10 =50
-public class Task001 {
+public class Task001Multipleof5 {
 
     public static void main(String[] args) {
 
@@ -25,7 +23,8 @@ public class Task001 {
         System.out.printf("%d*7 = %d", num,num*7).println();
         System.out.printf("%d*8 = %d", num,num*8).println();
         System.out.printf("%d*9 = %d", num,num*9).println();
-        System.out.printf("%d*10 = %d", num,num*10).println();
+        System.out.printf("%d*10 = %s", num,num*10).println();
+//%s is for string
 
     }
                 
