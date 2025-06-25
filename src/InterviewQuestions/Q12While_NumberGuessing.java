@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 
-public class While_NumberGuessing {
+public class Q12While_NumberGuessing {
     public static void main(String[] args) {
         Random random = new Random();
         int numbertobegussed = random.nextInt( 100)+1;
