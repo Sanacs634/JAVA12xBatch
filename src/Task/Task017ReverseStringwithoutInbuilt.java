@@ -30,11 +30,6 @@ public class Task017ReverseStringwithoutInbuilt {
         }
         return length;
     }
-
-
-
-
-
     static void reverseofastring(int lnword, String reverseword){
         int i =lnword-1;
         while(i>=0){
