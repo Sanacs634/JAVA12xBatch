@@ -14,7 +14,7 @@ public class Q12While_NumberGuessing {
 
         while(true){
 
-            System.out.println("Enter the guess number between 1-10");
+            System.out.println("Enter the guess number between 1-100");
             attempt++;
             if(userinput.hasNextInt()){
                 guess = userinput.nextInt();
